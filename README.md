@@ -7,7 +7,7 @@
 
 ## Как запустить
 
-1. Пример верстки на GitHub Pages: https://phil4a.github.io/four-horses-club/
+1. Пример верстки на GitHub Pages: [https://phil4a.github.io/four-horses-club/](https://phil4a.github.io/four-horses-club/)
 2. Откройте файл index.html в браузере.
 
 ## Структура проекта
