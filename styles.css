@@ -711,7 +711,7 @@ a {
 	content: '';
 	position: absolute;
 	inset: 0;
-	background: url('./assets/images/steps/step-bg.jpg') center bottom / cover no-repeat;
+	background: url('./assets/images/steps/step-bg.webp') center bottom / cover no-repeat;
 	z-index: -2;
 }
 
@@ -720,7 +720,7 @@ a {
 	content: '';
 	position: absolute;
 	inset: 0;
-	background: url('./assets/images/overlay.png') center / cover no-repeat;
+	background: url('./assets/images/overlay.webp') center / cover no-repeat;
 	mix-blend-mode: color-burn;
 	z-index: -1;
 	pointer-events: none;
@@ -881,6 +881,7 @@ a {
 	display: block;
 	width: 100%;
 	height: auto;
+	border-radius: 50%;
 }
 
 .participant-card__name {
